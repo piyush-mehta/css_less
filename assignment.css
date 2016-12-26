@@ -1,0 +1,70 @@
+body {
+background-image:  linear-gradient(rgba(0, 0, 204, 0.45), rgba(204, 153, 255, 0.45)), url("bk.jpg");
+color: white;
+font-size: 30px;
+}
+
+.div1 {
+text-align: center;
+height: 200px;
+}
+
+.div2 {
+height: 650px;
+}
+
+h1 {
+font-size: 50px;
+}
+
+a {
+text-decoration: none;
+}
+
+a:link {
+color: white;
+}
+
+a:visited {
+color: white;
+}
+
+a:hover {
+color: cyan;
+text-decoration: underline;
+}
+
+img {
+height: 700px;
+width: 805px;
+margin: 1px 55px 1px 32px;
+float: left;
+}
+
+.div3 {
+height: 600px;
+width: 680px;
+margin: 60px 1px 1px 1px;
+float: left;
+background: rgba(0, 51, 153, .5);
+padding-left: 30px;
+}
+
+.formtext {
+font-size: 20px;
+}
+
+input {
+height: 50px;
+width: 600px;
+margin: 0 0 20px 0px;
+padding: 10px;
+font-size: 20px;
+}
+
+button {
+height: 50px;
+width: 190px;
+padding: 10px;
+font-size: 20px;
+}
